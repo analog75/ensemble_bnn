@@ -1,0 +1,624 @@
+2021-07-05 12:14:38,435 - fusion.py[line:121] - INFO: Epoch: 000 | Batch: 000 | Loss: 2.05581 | Correct: 120/256
+2021-07-05 12:15:32,168 - fusion.py[line:121] - INFO: Epoch: 000 | Batch: 100 | Loss: 1.81406 | Correct: 130/256
+2021-07-05 12:16:39,194 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 12:16:39,308 - fusion.py[line:149] - INFO: Epoch: 000 | Validation Acc: 50.900 % | Historical Best: 50.900 %
+2021-07-05 12:16:44,562 - fusion.py[line:121] - INFO: Epoch: 001 | Batch: 000 | Loss: 1.98699 | Correct: 112/256
+2021-07-05 12:17:37,699 - fusion.py[line:121] - INFO: Epoch: 001 | Batch: 100 | Loss: 1.78673 | Correct: 125/256
+2021-07-05 12:18:43,724 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 12:18:43,823 - fusion.py[line:149] - INFO: Epoch: 001 | Validation Acc: 51.730 % | Historical Best: 51.730 %
+2021-07-05 12:18:49,740 - fusion.py[line:121] - INFO: Epoch: 002 | Batch: 000 | Loss: 1.61519 | Correct: 145/256
+2021-07-05 12:19:44,052 - fusion.py[line:121] - INFO: Epoch: 002 | Batch: 100 | Loss: 1.74861 | Correct: 127/256
+2021-07-05 12:20:48,561 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 12:20:48,657 - fusion.py[line:149] - INFO: Epoch: 002 | Validation Acc: 52.490 % | Historical Best: 52.490 %
+2021-07-05 12:20:54,678 - fusion.py[line:121] - INFO: Epoch: 003 | Batch: 000 | Loss: 1.69178 | Correct: 127/256
+2021-07-05 12:21:48,517 - fusion.py[line:121] - INFO: Epoch: 003 | Batch: 100 | Loss: 1.59845 | Correct: 143/256
+2021-07-05 12:22:59,557 - fusion.py[line:149] - INFO: Epoch: 003 | Validation Acc: 52.100 % | Historical Best: 52.490 %
+2021-07-05 12:23:05,779 - fusion.py[line:121] - INFO: Epoch: 004 | Batch: 000 | Loss: 1.71303 | Correct: 138/256
+2021-07-05 12:23:58,164 - fusion.py[line:121] - INFO: Epoch: 004 | Batch: 100 | Loss: 1.61607 | Correct: 133/256
+2021-07-05 12:25:03,600 - fusion.py[line:149] - INFO: Epoch: 004 | Validation Acc: 52.420 % | Historical Best: 52.490 %
+2021-07-05 12:25:08,660 - fusion.py[line:121] - INFO: Epoch: 005 | Batch: 000 | Loss: 1.60715 | Correct: 130/256
+2021-07-05 12:26:03,773 - fusion.py[line:121] - INFO: Epoch: 005 | Batch: 100 | Loss: 1.78826 | Correct: 124/256
+2021-07-05 12:27:08,548 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 12:27:08,656 - fusion.py[line:149] - INFO: Epoch: 005 | Validation Acc: 53.160 % | Historical Best: 53.160 %
+2021-07-05 12:27:14,634 - fusion.py[line:121] - INFO: Epoch: 006 | Batch: 000 | Loss: 1.66720 | Correct: 133/256
+2021-07-05 12:28:06,753 - fusion.py[line:121] - INFO: Epoch: 006 | Batch: 100 | Loss: 1.68950 | Correct: 130/256
+2021-07-05 12:29:11,013 - fusion.py[line:149] - INFO: Epoch: 006 | Validation Acc: 52.680 % | Historical Best: 53.160 %
+2021-07-05 12:29:17,100 - fusion.py[line:121] - INFO: Epoch: 007 | Batch: 000 | Loss: 2.01411 | Correct: 122/256
+2021-07-05 12:30:11,226 - fusion.py[line:121] - INFO: Epoch: 007 | Batch: 100 | Loss: 1.89401 | Correct: 120/256
+2021-07-05 12:31:17,187 - fusion.py[line:149] - INFO: Epoch: 007 | Validation Acc: 52.830 % | Historical Best: 53.160 %
+2021-07-05 12:31:23,209 - fusion.py[line:121] - INFO: Epoch: 008 | Batch: 000 | Loss: 1.79422 | Correct: 131/256
+2021-07-05 12:32:17,278 - fusion.py[line:121] - INFO: Epoch: 008 | Batch: 100 | Loss: 1.55927 | Correct: 147/256
+2021-07-05 12:33:21,779 - fusion.py[line:149] - INFO: Epoch: 008 | Validation Acc: 52.640 % | Historical Best: 53.160 %
+2021-07-05 12:33:27,812 - fusion.py[line:121] - INFO: Epoch: 009 | Batch: 000 | Loss: 1.76295 | Correct: 137/256
+2021-07-05 12:34:21,821 - fusion.py[line:121] - INFO: Epoch: 009 | Batch: 100 | Loss: 1.76284 | Correct: 130/256
+2021-07-05 12:35:27,074 - fusion.py[line:149] - INFO: Epoch: 009 | Validation Acc: 53.000 % | Historical Best: 53.160 %
+2021-07-05 12:35:34,417 - fusion.py[line:121] - INFO: Epoch: 010 | Batch: 000 | Loss: 1.69694 | Correct: 132/256
+2021-07-05 12:36:27,189 - fusion.py[line:121] - INFO: Epoch: 010 | Batch: 100 | Loss: 1.76468 | Correct: 129/256
+2021-07-05 12:37:32,845 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 12:37:33,002 - fusion.py[line:149] - INFO: Epoch: 010 | Validation Acc: 53.490 % | Historical Best: 53.490 %
+2021-07-05 12:37:37,648 - fusion.py[line:121] - INFO: Epoch: 011 | Batch: 000 | Loss: 1.62890 | Correct: 141/256
+2021-07-05 12:38:31,482 - fusion.py[line:121] - INFO: Epoch: 011 | Batch: 100 | Loss: 1.73765 | Correct: 124/256
+2021-07-05 12:39:39,877 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 12:39:39,974 - fusion.py[line:149] - INFO: Epoch: 011 | Validation Acc: 53.790 % | Historical Best: 53.790 %
+2021-07-05 12:39:44,622 - fusion.py[line:121] - INFO: Epoch: 012 | Batch: 000 | Loss: 1.68321 | Correct: 141/256
+2021-07-05 12:40:38,858 - fusion.py[line:121] - INFO: Epoch: 012 | Batch: 100 | Loss: 1.91298 | Correct: 126/256
+2021-07-05 12:41:46,201 - fusion.py[line:149] - INFO: Epoch: 012 | Validation Acc: 52.880 % | Historical Best: 53.790 %
+2021-07-05 12:41:52,302 - fusion.py[line:121] - INFO: Epoch: 013 | Batch: 000 | Loss: 1.52945 | Correct: 140/256
+2021-07-05 12:42:46,905 - fusion.py[line:121] - INFO: Epoch: 013 | Batch: 100 | Loss: 1.78418 | Correct: 129/256
+2021-07-05 12:43:56,835 - fusion.py[line:149] - INFO: Epoch: 013 | Validation Acc: 53.680 % | Historical Best: 53.790 %
+2021-07-05 12:44:02,875 - fusion.py[line:121] - INFO: Epoch: 014 | Batch: 000 | Loss: 1.58715 | Correct: 141/256
+2021-07-05 12:44:56,857 - fusion.py[line:121] - INFO: Epoch: 014 | Batch: 100 | Loss: 1.62939 | Correct: 141/256
+2021-07-05 12:46:04,924 - fusion.py[line:149] - INFO: Epoch: 014 | Validation Acc: 53.760 % | Historical Best: 53.790 %
+2021-07-05 12:46:10,844 - fusion.py[line:121] - INFO: Epoch: 015 | Batch: 000 | Loss: 1.60999 | Correct: 136/256
+2021-07-05 12:47:04,656 - fusion.py[line:121] - INFO: Epoch: 015 | Batch: 100 | Loss: 1.59995 | Correct: 143/256
+2021-07-05 12:48:10,753 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 12:48:10,866 - fusion.py[line:149] - INFO: Epoch: 015 | Validation Acc: 54.190 % | Historical Best: 54.190 %
+2021-07-05 12:48:16,742 - fusion.py[line:121] - INFO: Epoch: 016 | Batch: 000 | Loss: 1.78313 | Correct: 131/256
+2021-07-05 12:49:11,144 - fusion.py[line:121] - INFO: Epoch: 016 | Batch: 100 | Loss: 1.86214 | Correct: 136/256
+2021-07-05 12:50:16,547 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 12:50:16,644 - fusion.py[line:149] - INFO: Epoch: 016 | Validation Acc: 54.330 % | Historical Best: 54.330 %
+2021-07-05 12:50:22,737 - fusion.py[line:121] - INFO: Epoch: 017 | Batch: 000 | Loss: 1.52060 | Correct: 149/256
+2021-07-05 12:51:16,186 - fusion.py[line:121] - INFO: Epoch: 017 | Batch: 100 | Loss: 1.56054 | Correct: 144/256
+2021-07-05 12:52:20,239 - fusion.py[line:149] - INFO: Epoch: 017 | Validation Acc: 54.030 % | Historical Best: 54.330 %
+2021-07-05 12:52:26,310 - fusion.py[line:121] - INFO: Epoch: 018 | Batch: 000 | Loss: 1.80694 | Correct: 126/256
+2021-07-05 12:53:19,769 - fusion.py[line:121] - INFO: Epoch: 018 | Batch: 100 | Loss: 1.80053 | Correct: 129/256
+2021-07-05 12:54:23,874 - fusion.py[line:149] - INFO: Epoch: 018 | Validation Acc: 53.870 % | Historical Best: 54.330 %
+2021-07-05 12:54:29,982 - fusion.py[line:121] - INFO: Epoch: 019 | Batch: 000 | Loss: 1.73113 | Correct: 135/256
+2021-07-05 12:55:23,345 - fusion.py[line:121] - INFO: Epoch: 019 | Batch: 100 | Loss: 1.54528 | Correct: 147/256
+2021-07-05 12:56:27,695 - fusion.py[line:149] - INFO: Epoch: 019 | Validation Acc: 53.800 % | Historical Best: 54.330 %
+2021-07-05 12:56:33,697 - fusion.py[line:121] - INFO: Epoch: 020 | Batch: 000 | Loss: 1.39423 | Correct: 152/256
+2021-07-05 12:57:27,503 - fusion.py[line:121] - INFO: Epoch: 020 | Batch: 100 | Loss: 1.58044 | Correct: 144/256
+2021-07-05 12:58:35,235 - fusion.py[line:149] - INFO: Epoch: 020 | Validation Acc: 54.140 % | Historical Best: 54.330 %
+2021-07-05 12:58:41,433 - fusion.py[line:121] - INFO: Epoch: 021 | Batch: 000 | Loss: 1.67007 | Correct: 137/256
+2021-07-05 12:59:35,096 - fusion.py[line:121] - INFO: Epoch: 021 | Batch: 100 | Loss: 1.71516 | Correct: 149/256
+2021-07-05 13:00:40,529 - fusion.py[line:149] - INFO: Epoch: 021 | Validation Acc: 53.790 % | Historical Best: 54.330 %
+2021-07-05 13:00:46,408 - fusion.py[line:121] - INFO: Epoch: 022 | Batch: 000 | Loss: 1.73351 | Correct: 135/256
+2021-07-05 13:01:41,011 - fusion.py[line:121] - INFO: Epoch: 022 | Batch: 100 | Loss: 1.81019 | Correct: 139/256
+2021-07-05 13:02:48,197 - fusion.py[line:149] - INFO: Epoch: 022 | Validation Acc: 53.930 % | Historical Best: 54.330 %
+2021-07-05 13:02:53,117 - fusion.py[line:121] - INFO: Epoch: 023 | Batch: 000 | Loss: 1.73722 | Correct: 131/256
+2021-07-05 13:03:46,094 - fusion.py[line:121] - INFO: Epoch: 023 | Batch: 100 | Loss: 1.72613 | Correct: 132/256
+2021-07-05 13:04:52,917 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 13:04:53,029 - fusion.py[line:149] - INFO: Epoch: 023 | Validation Acc: 54.450 % | Historical Best: 54.450 %
+2021-07-05 13:04:57,831 - fusion.py[line:121] - INFO: Epoch: 024 | Batch: 000 | Loss: 1.58324 | Correct: 148/256
+2021-07-05 13:05:52,347 - fusion.py[line:121] - INFO: Epoch: 024 | Batch: 100 | Loss: 1.58081 | Correct: 138/256
+2021-07-05 13:07:00,453 - fusion.py[line:149] - INFO: Epoch: 024 | Validation Acc: 54.190 % | Historical Best: 54.450 %
+2021-07-05 13:07:05,172 - fusion.py[line:121] - INFO: Epoch: 025 | Batch: 000 | Loss: 1.59772 | Correct: 147/256
+2021-07-05 13:08:00,278 - fusion.py[line:121] - INFO: Epoch: 025 | Batch: 100 | Loss: 1.73622 | Correct: 147/256
+2021-07-05 13:09:06,285 - fusion.py[line:149] - INFO: Epoch: 025 | Validation Acc: 53.800 % | Historical Best: 54.450 %
+2021-07-05 13:09:12,432 - fusion.py[line:121] - INFO: Epoch: 026 | Batch: 000 | Loss: 1.58759 | Correct: 145/256
+2021-07-05 13:10:03,351 - fusion.py[line:121] - INFO: Epoch: 026 | Batch: 100 | Loss: 1.64129 | Correct: 144/256
+2021-07-05 13:11:11,847 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 13:11:11,945 - fusion.py[line:149] - INFO: Epoch: 026 | Validation Acc: 54.650 % | Historical Best: 54.650 %
+2021-07-05 13:11:17,625 - fusion.py[line:121] - INFO: Epoch: 027 | Batch: 000 | Loss: 1.63294 | Correct: 137/256
+2021-07-05 13:12:12,166 - fusion.py[line:121] - INFO: Epoch: 027 | Batch: 100 | Loss: 1.75336 | Correct: 124/256
+2021-07-05 13:13:18,123 - fusion.py[line:149] - INFO: Epoch: 027 | Validation Acc: 54.360 % | Historical Best: 54.650 %
+2021-07-05 13:13:23,530 - fusion.py[line:121] - INFO: Epoch: 028 | Batch: 000 | Loss: 1.65820 | Correct: 135/256
+2021-07-05 13:14:18,600 - fusion.py[line:121] - INFO: Epoch: 028 | Batch: 100 | Loss: 1.59642 | Correct: 144/256
+2021-07-05 13:15:26,668 - fusion.py[line:149] - INFO: Epoch: 028 | Validation Acc: 54.430 % | Historical Best: 54.650 %
+2021-07-05 13:15:32,654 - fusion.py[line:121] - INFO: Epoch: 029 | Batch: 000 | Loss: 1.54143 | Correct: 140/256
+2021-07-05 13:16:24,836 - fusion.py[line:121] - INFO: Epoch: 029 | Batch: 100 | Loss: 1.47942 | Correct: 147/256
+2021-07-05 13:17:33,995 - fusion.py[line:149] - INFO: Epoch: 029 | Validation Acc: 54.240 % | Historical Best: 54.650 %
+2021-07-05 13:17:39,698 - fusion.py[line:121] - INFO: Epoch: 030 | Batch: 000 | Loss: 1.67494 | Correct: 136/256
+2021-07-05 13:18:33,572 - fusion.py[line:121] - INFO: Epoch: 030 | Batch: 100 | Loss: 1.74282 | Correct: 133/256
+2021-07-05 13:19:40,857 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 13:19:40,971 - fusion.py[line:149] - INFO: Epoch: 030 | Validation Acc: 55.140 % | Historical Best: 55.140 %
+2021-07-05 13:19:47,162 - fusion.py[line:121] - INFO: Epoch: 031 | Batch: 000 | Loss: 1.51423 | Correct: 152/256
+2021-07-05 13:20:41,168 - fusion.py[line:121] - INFO: Epoch: 031 | Batch: 100 | Loss: 1.63377 | Correct: 146/256
+2021-07-05 13:21:48,216 - fusion.py[line:149] - INFO: Epoch: 031 | Validation Acc: 53.850 % | Historical Best: 55.140 %
+2021-07-05 13:21:54,295 - fusion.py[line:121] - INFO: Epoch: 032 | Batch: 000 | Loss: 1.46219 | Correct: 147/256
+2021-07-05 13:22:47,107 - fusion.py[line:121] - INFO: Epoch: 032 | Batch: 100 | Loss: 1.57511 | Correct: 139/256
+2021-07-05 13:23:51,536 - fusion.py[line:149] - INFO: Epoch: 032 | Validation Acc: 54.060 % | Historical Best: 55.140 %
+2021-07-05 13:23:57,904 - fusion.py[line:121] - INFO: Epoch: 033 | Batch: 000 | Loss: 1.59540 | Correct: 137/256
+2021-07-05 13:24:51,955 - fusion.py[line:121] - INFO: Epoch: 033 | Batch: 100 | Loss: 1.69829 | Correct: 138/256
+2021-07-05 13:25:59,507 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 13:25:59,610 - fusion.py[line:149] - INFO: Epoch: 033 | Validation Acc: 55.150 % | Historical Best: 55.150 %
+2021-07-05 13:26:05,116 - fusion.py[line:121] - INFO: Epoch: 034 | Batch: 000 | Loss: 1.61250 | Correct: 142/256
+2021-07-05 13:26:58,187 - fusion.py[line:121] - INFO: Epoch: 034 | Batch: 100 | Loss: 1.48908 | Correct: 147/256
+2021-07-05 13:28:03,991 - fusion.py[line:149] - INFO: Epoch: 034 | Validation Acc: 54.850 % | Historical Best: 55.150 %
+2021-07-05 13:28:10,272 - fusion.py[line:121] - INFO: Epoch: 035 | Batch: 000 | Loss: 1.63306 | Correct: 142/256
+2021-07-05 13:29:02,260 - fusion.py[line:121] - INFO: Epoch: 035 | Batch: 100 | Loss: 1.65980 | Correct: 151/256
+2021-07-05 13:30:09,710 - fusion.py[line:149] - INFO: Epoch: 035 | Validation Acc: 54.640 % | Historical Best: 55.150 %
+2021-07-05 13:30:15,896 - fusion.py[line:121] - INFO: Epoch: 036 | Batch: 000 | Loss: 1.73701 | Correct: 134/256
+2021-07-05 13:31:10,873 - fusion.py[line:121] - INFO: Epoch: 036 | Batch: 100 | Loss: 1.46885 | Correct: 146/256
+2021-07-05 13:32:19,931 - fusion.py[line:149] - INFO: Epoch: 036 | Validation Acc: 54.390 % | Historical Best: 55.150 %
+2021-07-05 13:32:24,821 - fusion.py[line:121] - INFO: Epoch: 037 | Batch: 000 | Loss: 1.67368 | Correct: 139/256
+2021-07-05 13:33:20,238 - fusion.py[line:121] - INFO: Epoch: 037 | Batch: 100 | Loss: 1.67375 | Correct: 139/256
+2021-07-05 13:34:26,591 - fusion.py[line:149] - INFO: Epoch: 037 | Validation Acc: 54.410 % | Historical Best: 55.150 %
+2021-07-05 13:34:32,632 - fusion.py[line:121] - INFO: Epoch: 038 | Batch: 000 | Loss: 1.72463 | Correct: 145/256
+2021-07-05 13:35:26,754 - fusion.py[line:121] - INFO: Epoch: 038 | Batch: 100 | Loss: 1.72591 | Correct: 136/256
+2021-07-05 13:36:34,815 - fusion.py[line:149] - INFO: Epoch: 038 | Validation Acc: 54.040 % | Historical Best: 55.150 %
+2021-07-05 13:36:39,643 - fusion.py[line:121] - INFO: Epoch: 039 | Batch: 000 | Loss: 1.55702 | Correct: 141/256
+2021-07-05 13:37:34,306 - fusion.py[line:121] - INFO: Epoch: 039 | Batch: 100 | Loss: 1.61646 | Correct: 143/256
+2021-07-05 13:38:40,625 - fusion.py[line:149] - INFO: Epoch: 039 | Validation Acc: 54.860 % | Historical Best: 55.150 %
+2021-07-05 13:38:46,857 - fusion.py[line:121] - INFO: Epoch: 040 | Batch: 000 | Loss: 1.43312 | Correct: 151/256
+2021-07-05 13:39:41,615 - fusion.py[line:121] - INFO: Epoch: 040 | Batch: 100 | Loss: 1.54284 | Correct: 148/256
+2021-07-05 13:40:50,295 - fusion.py[line:149] - INFO: Epoch: 040 | Validation Acc: 54.400 % | Historical Best: 55.150 %
+2021-07-05 13:40:56,442 - fusion.py[line:121] - INFO: Epoch: 041 | Batch: 000 | Loss: 1.60120 | Correct: 142/256
+2021-07-05 13:41:48,260 - fusion.py[line:121] - INFO: Epoch: 041 | Batch: 100 | Loss: 1.60683 | Correct: 140/256
+2021-07-05 13:42:52,770 - fusion.py[line:149] - INFO: Epoch: 041 | Validation Acc: 54.420 % | Historical Best: 55.150 %
+2021-07-05 13:42:57,539 - fusion.py[line:121] - INFO: Epoch: 042 | Batch: 000 | Loss: 1.69391 | Correct: 143/256
+2021-07-05 13:43:52,956 - fusion.py[line:121] - INFO: Epoch: 042 | Batch: 100 | Loss: 1.50086 | Correct: 151/256
+2021-07-05 13:45:01,089 - fusion.py[line:149] - INFO: Epoch: 042 | Validation Acc: 54.890 % | Historical Best: 55.150 %
+2021-07-05 13:45:07,264 - fusion.py[line:121] - INFO: Epoch: 043 | Batch: 000 | Loss: 1.71171 | Correct: 131/256
+2021-07-05 13:46:00,790 - fusion.py[line:121] - INFO: Epoch: 043 | Batch: 100 | Loss: 1.57959 | Correct: 140/256
+2021-07-05 13:47:08,729 - fusion.py[line:149] - INFO: Epoch: 043 | Validation Acc: 54.780 % | Historical Best: 55.150 %
+2021-07-05 13:47:14,937 - fusion.py[line:121] - INFO: Epoch: 044 | Batch: 000 | Loss: 1.39899 | Correct: 155/256
+2021-07-05 13:48:08,041 - fusion.py[line:121] - INFO: Epoch: 044 | Batch: 100 | Loss: 1.68766 | Correct: 131/256
+2021-07-05 13:49:15,251 - fusion.py[line:149] - INFO: Epoch: 044 | Validation Acc: 54.610 % | Historical Best: 55.150 %
+2021-07-05 13:49:21,483 - fusion.py[line:121] - INFO: Epoch: 045 | Batch: 000 | Loss: 1.57506 | Correct: 142/256
+2021-07-05 13:50:16,171 - fusion.py[line:121] - INFO: Epoch: 045 | Batch: 100 | Loss: 1.53640 | Correct: 149/256
+2021-07-05 13:51:21,715 - fusion.py[line:149] - INFO: Epoch: 045 | Validation Acc: 54.070 % | Historical Best: 55.150 %
+2021-07-05 13:51:27,805 - fusion.py[line:121] - INFO: Epoch: 046 | Batch: 000 | Loss: 1.67695 | Correct: 139/256
+2021-07-05 13:52:23,240 - fusion.py[line:121] - INFO: Epoch: 046 | Batch: 100 | Loss: 1.67676 | Correct: 140/256
+2021-07-05 13:53:28,384 - fusion.py[line:149] - INFO: Epoch: 046 | Validation Acc: 55.000 % | Historical Best: 55.150 %
+2021-07-05 13:53:34,456 - fusion.py[line:121] - INFO: Epoch: 047 | Batch: 000 | Loss: 1.79761 | Correct: 123/256
+2021-07-05 13:54:27,845 - fusion.py[line:121] - INFO: Epoch: 047 | Batch: 100 | Loss: 1.51459 | Correct: 147/256
+2021-07-05 13:55:33,195 - fusion.py[line:149] - INFO: Epoch: 047 | Validation Acc: 54.730 % | Historical Best: 55.150 %
+2021-07-05 13:55:39,332 - fusion.py[line:121] - INFO: Epoch: 048 | Batch: 000 | Loss: 1.49818 | Correct: 156/256
+2021-07-05 13:56:33,754 - fusion.py[line:121] - INFO: Epoch: 048 | Batch: 100 | Loss: 1.70861 | Correct: 127/256
+2021-07-05 13:57:44,256 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 13:57:44,373 - fusion.py[line:149] - INFO: Epoch: 048 | Validation Acc: 55.270 % | Historical Best: 55.270 %
+2021-07-05 13:57:50,556 - fusion.py[line:121] - INFO: Epoch: 049 | Batch: 000 | Loss: 1.76241 | Correct: 135/256
+2021-07-05 13:58:44,043 - fusion.py[line:121] - INFO: Epoch: 049 | Batch: 100 | Loss: 1.56900 | Correct: 139/256
+2021-07-05 13:59:49,946 - fusion.py[line:149] - INFO: Epoch: 049 | Validation Acc: 54.550 % | Historical Best: 55.270 %
+2021-07-05 13:59:54,916 - fusion.py[line:121] - INFO: Epoch: 050 | Batch: 000 | Loss: 1.48662 | Correct: 149/256
+2021-07-05 14:00:49,066 - fusion.py[line:121] - INFO: Epoch: 050 | Batch: 100 | Loss: 1.44257 | Correct: 149/256
+2021-07-05 14:01:53,045 - fusion.py[line:149] - INFO: Epoch: 050 | Validation Acc: 54.960 % | Historical Best: 55.270 %
+2021-07-05 14:01:59,204 - fusion.py[line:121] - INFO: Epoch: 051 | Batch: 000 | Loss: 1.35983 | Correct: 152/256
+2021-07-05 14:02:53,086 - fusion.py[line:121] - INFO: Epoch: 051 | Batch: 100 | Loss: 1.53232 | Correct: 146/256
+2021-07-05 14:03:59,008 - fusion.py[line:149] - INFO: Epoch: 051 | Validation Acc: 55.170 % | Historical Best: 55.270 %
+2021-07-05 14:04:05,072 - fusion.py[line:121] - INFO: Epoch: 052 | Batch: 000 | Loss: 1.60716 | Correct: 134/256
+2021-07-05 14:04:57,652 - fusion.py[line:121] - INFO: Epoch: 052 | Batch: 100 | Loss: 1.39347 | Correct: 161/256
+2021-07-05 14:06:03,096 - fusion.py[line:149] - INFO: Epoch: 052 | Validation Acc: 55.000 % | Historical Best: 55.270 %
+2021-07-05 14:06:07,871 - fusion.py[line:121] - INFO: Epoch: 053 | Batch: 000 | Loss: 1.81029 | Correct: 131/256
+2021-07-05 14:07:01,495 - fusion.py[line:121] - INFO: Epoch: 053 | Batch: 100 | Loss: 1.41735 | Correct: 159/256
+2021-07-05 14:08:06,478 - fusion.py[line:149] - INFO: Epoch: 053 | Validation Acc: 55.120 % | Historical Best: 55.270 %
+2021-07-05 14:08:12,811 - fusion.py[line:121] - INFO: Epoch: 054 | Batch: 000 | Loss: 1.61256 | Correct: 145/256
+2021-07-05 14:09:05,540 - fusion.py[line:121] - INFO: Epoch: 054 | Batch: 100 | Loss: 1.44722 | Correct: 156/256
+2021-07-05 14:10:11,879 - fusion.py[line:149] - INFO: Epoch: 054 | Validation Acc: 55.250 % | Historical Best: 55.270 %
+2021-07-05 14:10:18,074 - fusion.py[line:121] - INFO: Epoch: 055 | Batch: 000 | Loss: 1.81992 | Correct: 127/256
+2021-07-05 14:11:13,141 - fusion.py[line:121] - INFO: Epoch: 055 | Batch: 100 | Loss: 1.46999 | Correct: 148/256
+2021-07-05 14:12:17,002 - fusion.py[line:149] - INFO: Epoch: 055 | Validation Acc: 55.260 % | Historical Best: 55.270 %
+2021-07-05 14:12:23,104 - fusion.py[line:121] - INFO: Epoch: 056 | Batch: 000 | Loss: 1.60280 | Correct: 136/256
+2021-07-05 14:13:14,450 - fusion.py[line:121] - INFO: Epoch: 056 | Batch: 100 | Loss: 1.62320 | Correct: 150/256
+2021-07-05 14:14:20,280 - fusion.py[line:149] - INFO: Epoch: 056 | Validation Acc: 54.530 % | Historical Best: 55.270 %
+2021-07-05 14:14:25,705 - fusion.py[line:121] - INFO: Epoch: 057 | Batch: 000 | Loss: 1.72478 | Correct: 141/256
+2021-07-05 14:15:19,528 - fusion.py[line:121] - INFO: Epoch: 057 | Batch: 100 | Loss: 1.65584 | Correct: 148/256
+2021-07-05 14:16:27,467 - fusion.py[line:149] - INFO: Epoch: 057 | Validation Acc: 55.000 % | Historical Best: 55.270 %
+2021-07-05 14:16:33,631 - fusion.py[line:121] - INFO: Epoch: 058 | Batch: 000 | Loss: 1.56915 | Correct: 135/256
+2021-07-05 14:17:28,709 - fusion.py[line:121] - INFO: Epoch: 058 | Batch: 100 | Loss: 1.63346 | Correct: 143/256
+2021-07-05 14:18:35,300 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 14:18:35,415 - fusion.py[line:149] - INFO: Epoch: 058 | Validation Acc: 55.740 % | Historical Best: 55.740 %
+2021-07-05 14:18:41,112 - fusion.py[line:121] - INFO: Epoch: 059 | Batch: 000 | Loss: 1.55754 | Correct: 141/256
+2021-07-05 14:19:32,385 - fusion.py[line:121] - INFO: Epoch: 059 | Batch: 100 | Loss: 1.87281 | Correct: 126/256
+2021-07-05 14:20:40,352 - fusion.py[line:149] - INFO: Epoch: 059 | Validation Acc: 54.800 % | Historical Best: 55.740 %
+2021-07-05 14:20:46,512 - fusion.py[line:121] - INFO: Epoch: 060 | Batch: 000 | Loss: 1.49435 | Correct: 146/256
+2021-07-05 14:21:39,884 - fusion.py[line:121] - INFO: Epoch: 060 | Batch: 100 | Loss: 1.67295 | Correct: 133/256
+2021-07-05 14:22:45,565 - fusion.py[line:149] - INFO: Epoch: 060 | Validation Acc: 55.200 % | Historical Best: 55.740 %
+2021-07-05 14:22:50,275 - fusion.py[line:121] - INFO: Epoch: 061 | Batch: 000 | Loss: 1.56281 | Correct: 143/256
+2021-07-05 14:23:44,165 - fusion.py[line:121] - INFO: Epoch: 061 | Batch: 100 | Loss: 1.44885 | Correct: 155/256
+2021-07-05 14:24:47,830 - fusion.py[line:149] - INFO: Epoch: 061 | Validation Acc: 55.500 % | Historical Best: 55.740 %
+2021-07-05 14:24:52,621 - fusion.py[line:121] - INFO: Epoch: 062 | Batch: 000 | Loss: 1.70532 | Correct: 141/256
+2021-07-05 14:25:44,873 - fusion.py[line:121] - INFO: Epoch: 062 | Batch: 100 | Loss: 1.45490 | Correct: 149/256
+2021-07-05 14:26:50,848 - fusion.py[line:149] - INFO: Epoch: 062 | Validation Acc: 55.400 % | Historical Best: 55.740 %
+2021-07-05 14:26:56,078 - fusion.py[line:121] - INFO: Epoch: 063 | Batch: 000 | Loss: 1.53126 | Correct: 154/256
+2021-07-05 14:27:50,594 - fusion.py[line:121] - INFO: Epoch: 063 | Batch: 100 | Loss: 1.70138 | Correct: 140/256
+2021-07-05 14:28:59,172 - fusion.py[line:149] - INFO: Epoch: 063 | Validation Acc: 55.360 % | Historical Best: 55.740 %
+2021-07-05 14:29:04,407 - fusion.py[line:121] - INFO: Epoch: 064 | Batch: 000 | Loss: 1.63430 | Correct: 136/256
+2021-07-05 14:29:57,884 - fusion.py[line:121] - INFO: Epoch: 064 | Batch: 100 | Loss: 1.40219 | Correct: 155/256
+2021-07-05 14:31:05,461 - fusion.py[line:149] - INFO: Epoch: 064 | Validation Acc: 55.540 % | Historical Best: 55.740 %
+2021-07-05 14:31:10,810 - fusion.py[line:121] - INFO: Epoch: 065 | Batch: 000 | Loss: 1.58557 | Correct: 140/256
+2021-07-05 14:32:03,189 - fusion.py[line:121] - INFO: Epoch: 065 | Batch: 100 | Loss: 1.60541 | Correct: 134/256
+2021-07-05 14:33:09,526 - fusion.py[line:149] - INFO: Epoch: 065 | Validation Acc: 55.530 % | Historical Best: 55.740 %
+2021-07-05 14:33:15,509 - fusion.py[line:121] - INFO: Epoch: 066 | Batch: 000 | Loss: 1.55566 | Correct: 149/256
+2021-07-05 14:34:06,415 - fusion.py[line:121] - INFO: Epoch: 066 | Batch: 100 | Loss: 1.55911 | Correct: 147/256
+2021-07-05 14:35:12,143 - fusion.py[line:149] - INFO: Epoch: 066 | Validation Acc: 54.970 % | Historical Best: 55.740 %
+2021-07-05 14:35:18,224 - fusion.py[line:121] - INFO: Epoch: 067 | Batch: 000 | Loss: 1.62550 | Correct: 141/256
+2021-07-05 14:36:11,024 - fusion.py[line:121] - INFO: Epoch: 067 | Batch: 100 | Loss: 1.79016 | Correct: 137/256
+2021-07-05 14:37:19,073 - fusion.py[line:149] - INFO: Epoch: 067 | Validation Acc: 54.540 % | Historical Best: 55.740 %
+2021-07-05 14:37:23,873 - fusion.py[line:121] - INFO: Epoch: 068 | Batch: 000 | Loss: 1.44011 | Correct: 142/256
+2021-07-05 14:38:18,344 - fusion.py[line:121] - INFO: Epoch: 068 | Batch: 100 | Loss: 1.63302 | Correct: 138/256
+2021-07-05 14:39:24,364 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 14:39:24,480 - fusion.py[line:149] - INFO: Epoch: 068 | Validation Acc: 55.880 % | Historical Best: 55.880 %
+2021-07-05 14:39:30,791 - fusion.py[line:121] - INFO: Epoch: 069 | Batch: 000 | Loss: 1.61057 | Correct: 141/256
+2021-07-05 14:40:25,234 - fusion.py[line:121] - INFO: Epoch: 069 | Batch: 100 | Loss: 1.62151 | Correct: 145/256
+2021-07-05 14:41:34,713 - fusion.py[line:149] - INFO: Epoch: 069 | Validation Acc: 54.810 % | Historical Best: 55.880 %
+2021-07-05 14:41:40,474 - fusion.py[line:121] - INFO: Epoch: 070 | Batch: 000 | Loss: 1.33889 | Correct: 158/256
+2021-07-05 14:42:34,726 - fusion.py[line:121] - INFO: Epoch: 070 | Batch: 100 | Loss: 1.74290 | Correct: 133/256
+2021-07-05 14:43:39,973 - fusion.py[line:149] - INFO: Epoch: 070 | Validation Acc: 55.180 % | Historical Best: 55.880 %
+2021-07-05 14:43:44,771 - fusion.py[line:121] - INFO: Epoch: 071 | Batch: 000 | Loss: 1.77497 | Correct: 127/256
+2021-07-05 14:44:37,819 - fusion.py[line:121] - INFO: Epoch: 071 | Batch: 100 | Loss: 1.46666 | Correct: 151/256
+2021-07-05 14:45:47,056 - fusion.py[line:149] - INFO: Epoch: 071 | Validation Acc: 55.280 % | Historical Best: 55.880 %
+2021-07-05 14:45:53,337 - fusion.py[line:121] - INFO: Epoch: 072 | Batch: 000 | Loss: 1.57537 | Correct: 144/256
+2021-07-05 14:46:48,032 - fusion.py[line:121] - INFO: Epoch: 072 | Batch: 100 | Loss: 1.53562 | Correct: 149/256
+2021-07-05 14:47:58,121 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 14:47:58,270 - fusion.py[line:149] - INFO: Epoch: 072 | Validation Acc: 56.120 % | Historical Best: 56.120 %
+2021-07-05 14:48:02,944 - fusion.py[line:121] - INFO: Epoch: 073 | Batch: 000 | Loss: 1.55095 | Correct: 154/256
+2021-07-05 14:48:58,252 - fusion.py[line:121] - INFO: Epoch: 073 | Batch: 100 | Loss: 1.76586 | Correct: 134/256
+2021-07-05 14:50:04,081 - fusion.py[line:149] - INFO: Epoch: 073 | Validation Acc: 54.830 % | Historical Best: 56.120 %
+2021-07-05 14:50:10,161 - fusion.py[line:121] - INFO: Epoch: 074 | Batch: 000 | Loss: 1.52387 | Correct: 140/256
+2021-07-05 14:51:04,477 - fusion.py[line:121] - INFO: Epoch: 074 | Batch: 100 | Loss: 1.66001 | Correct: 135/256
+2021-07-05 14:52:09,255 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 14:52:09,387 - fusion.py[line:149] - INFO: Epoch: 074 | Validation Acc: 56.240 % | Historical Best: 56.240 %
+2021-07-05 14:52:15,518 - fusion.py[line:121] - INFO: Epoch: 075 | Batch: 000 | Loss: 1.46188 | Correct: 146/256
+2021-07-05 14:53:10,619 - fusion.py[line:121] - INFO: Epoch: 075 | Batch: 100 | Loss: 1.74405 | Correct: 138/256
+2021-07-05 14:54:18,735 - fusion.py[line:149] - INFO: Epoch: 075 | Validation Acc: 53.970 % | Historical Best: 56.240 %
+2021-07-05 14:54:24,814 - fusion.py[line:121] - INFO: Epoch: 076 | Batch: 000 | Loss: 1.49584 | Correct: 145/256
+2021-07-05 14:55:16,574 - fusion.py[line:121] - INFO: Epoch: 076 | Batch: 100 | Loss: 1.53908 | Correct: 144/256
+2021-07-05 14:56:21,183 - fusion.py[line:149] - INFO: Epoch: 076 | Validation Acc: 55.840 % | Historical Best: 56.240 %
+2021-07-05 14:56:27,485 - fusion.py[line:121] - INFO: Epoch: 077 | Batch: 000 | Loss: 1.52568 | Correct: 144/256
+2021-07-05 14:57:21,605 - fusion.py[line:121] - INFO: Epoch: 077 | Batch: 100 | Loss: 1.61538 | Correct: 145/256
+2021-07-05 14:58:30,176 - fusion.py[line:149] - INFO: Epoch: 077 | Validation Acc: 55.840 % | Historical Best: 56.240 %
+2021-07-05 14:58:35,892 - fusion.py[line:121] - INFO: Epoch: 078 | Batch: 000 | Loss: 1.52657 | Correct: 144/256
+2021-07-05 14:59:30,956 - fusion.py[line:121] - INFO: Epoch: 078 | Batch: 100 | Loss: 1.82170 | Correct: 125/256
+2021-07-05 15:00:38,374 - fusion.py[line:149] - INFO: Epoch: 078 | Validation Acc: 55.070 % | Historical Best: 56.240 %
+2021-07-05 15:00:44,484 - fusion.py[line:121] - INFO: Epoch: 079 | Batch: 000 | Loss: 1.70214 | Correct: 130/256
+2021-07-05 15:01:39,017 - fusion.py[line:121] - INFO: Epoch: 079 | Batch: 100 | Loss: 1.85362 | Correct: 124/256
+2021-07-05 15:02:45,850 - fusion.py[line:149] - INFO: Epoch: 079 | Validation Acc: 55.530 % | Historical Best: 56.240 %
+2021-07-05 15:02:51,984 - fusion.py[line:121] - INFO: Epoch: 080 | Batch: 000 | Loss: 1.71797 | Correct: 132/256
+2021-07-05 15:03:44,876 - fusion.py[line:121] - INFO: Epoch: 080 | Batch: 100 | Loss: 1.58723 | Correct: 136/256
+2021-07-05 15:04:52,446 - fusion.py[line:149] - INFO: Epoch: 080 | Validation Acc: 55.880 % | Historical Best: 56.240 %
+2021-07-05 15:04:58,653 - fusion.py[line:121] - INFO: Epoch: 081 | Batch: 000 | Loss: 1.52783 | Correct: 152/256
+2021-07-05 15:05:54,597 - fusion.py[line:121] - INFO: Epoch: 081 | Batch: 100 | Loss: 1.58525 | Correct: 147/256
+2021-07-05 15:07:01,090 - fusion.py[line:149] - INFO: Epoch: 081 | Validation Acc: 55.750 % | Historical Best: 56.240 %
+2021-07-05 15:07:06,332 - fusion.py[line:121] - INFO: Epoch: 082 | Batch: 000 | Loss: 1.31018 | Correct: 155/256
+2021-07-05 15:07:59,251 - fusion.py[line:121] - INFO: Epoch: 082 | Batch: 100 | Loss: 1.70460 | Correct: 133/256
+2021-07-05 15:09:02,590 - fusion.py[line:149] - INFO: Epoch: 082 | Validation Acc: 55.080 % | Historical Best: 56.240 %
+2021-07-05 15:09:08,845 - fusion.py[line:121] - INFO: Epoch: 083 | Batch: 000 | Loss: 1.50785 | Correct: 154/256
+2021-07-05 15:10:02,078 - fusion.py[line:121] - INFO: Epoch: 083 | Batch: 100 | Loss: 1.58678 | Correct: 130/256
+2021-07-05 15:11:15,355 - fusion.py[line:149] - INFO: Epoch: 083 | Validation Acc: 55.490 % | Historical Best: 56.240 %
+2021-07-05 15:11:20,683 - fusion.py[line:121] - INFO: Epoch: 084 | Batch: 000 | Loss: 1.50658 | Correct: 143/256
+2021-07-05 15:12:15,080 - fusion.py[line:121] - INFO: Epoch: 084 | Batch: 100 | Loss: 1.68515 | Correct: 143/256
+2021-07-05 15:13:22,058 - fusion.py[line:149] - INFO: Epoch: 084 | Validation Acc: 55.660 % | Historical Best: 56.240 %
+2021-07-05 15:13:28,204 - fusion.py[line:121] - INFO: Epoch: 085 | Batch: 000 | Loss: 1.50060 | Correct: 157/256
+2021-07-05 15:14:23,145 - fusion.py[line:121] - INFO: Epoch: 085 | Batch: 100 | Loss: 1.43398 | Correct: 148/256
+2021-07-05 15:15:29,627 - fusion.py[line:149] - INFO: Epoch: 085 | Validation Acc: 54.830 % | Historical Best: 56.240 %
+2021-07-05 15:15:35,761 - fusion.py[line:121] - INFO: Epoch: 086 | Batch: 000 | Loss: 1.55932 | Correct: 146/256
+2021-07-05 15:16:30,140 - fusion.py[line:121] - INFO: Epoch: 086 | Batch: 100 | Loss: 1.60291 | Correct: 145/256
+2021-07-05 15:17:36,411 - fusion.py[line:149] - INFO: Epoch: 086 | Validation Acc: 55.670 % | Historical Best: 56.240 %
+2021-07-05 15:17:42,608 - fusion.py[line:121] - INFO: Epoch: 087 | Batch: 000 | Loss: 1.53406 | Correct: 148/256
+2021-07-05 15:18:35,719 - fusion.py[line:121] - INFO: Epoch: 087 | Batch: 100 | Loss: 1.39365 | Correct: 149/256
+2021-07-05 15:19:43,129 - fusion.py[line:149] - INFO: Epoch: 087 | Validation Acc: 56.060 % | Historical Best: 56.240 %
+2021-07-05 15:19:47,930 - fusion.py[line:121] - INFO: Epoch: 088 | Batch: 000 | Loss: 1.49183 | Correct: 146/256
+2021-07-05 15:20:42,359 - fusion.py[line:121] - INFO: Epoch: 088 | Batch: 100 | Loss: 1.62237 | Correct: 146/256
+2021-07-05 15:21:51,227 - fusion.py[line:149] - INFO: Epoch: 088 | Validation Acc: 55.200 % | Historical Best: 56.240 %
+2021-07-05 15:21:57,180 - fusion.py[line:121] - INFO: Epoch: 089 | Batch: 000 | Loss: 1.55030 | Correct: 151/256
+2021-07-05 15:22:49,464 - fusion.py[line:121] - INFO: Epoch: 089 | Batch: 100 | Loss: 1.54800 | Correct: 147/256
+2021-07-05 15:23:56,744 - fusion.py[line:149] - INFO: Epoch: 089 | Validation Acc: 55.410 % | Historical Best: 56.240 %
+2021-07-05 15:24:02,905 - fusion.py[line:121] - INFO: Epoch: 090 | Batch: 000 | Loss: 1.58862 | Correct: 135/256
+2021-07-05 15:24:57,197 - fusion.py[line:121] - INFO: Epoch: 090 | Batch: 100 | Loss: 1.47252 | Correct: 150/256
+2021-07-05 15:26:04,520 - fusion.py[line:149] - INFO: Epoch: 090 | Validation Acc: 55.730 % | Historical Best: 56.240 %
+2021-07-05 15:26:10,409 - fusion.py[line:121] - INFO: Epoch: 091 | Batch: 000 | Loss: 1.59465 | Correct: 141/256
+2021-07-05 15:27:05,459 - fusion.py[line:121] - INFO: Epoch: 091 | Batch: 100 | Loss: 1.36770 | Correct: 149/256
+2021-07-05 15:28:13,218 - fusion.py[line:149] - INFO: Epoch: 091 | Validation Acc: 55.190 % | Historical Best: 56.240 %
+2021-07-05 15:28:19,036 - fusion.py[line:121] - INFO: Epoch: 092 | Batch: 000 | Loss: 1.44017 | Correct: 157/256
+2021-07-05 15:29:14,275 - fusion.py[line:121] - INFO: Epoch: 092 | Batch: 100 | Loss: 1.57123 | Correct: 140/256
+2021-07-05 15:30:25,073 - fusion.py[line:149] - INFO: Epoch: 092 | Validation Acc: 55.630 % | Historical Best: 56.240 %
+2021-07-05 15:30:31,228 - fusion.py[line:121] - INFO: Epoch: 093 | Batch: 000 | Loss: 1.73089 | Correct: 140/256
+2021-07-05 15:31:25,389 - fusion.py[line:121] - INFO: Epoch: 093 | Batch: 100 | Loss: 1.47591 | Correct: 143/256
+2021-07-05 15:32:30,092 - fusion.py[line:149] - INFO: Epoch: 093 | Validation Acc: 55.260 % | Historical Best: 56.240 %
+2021-07-05 15:32:34,886 - fusion.py[line:121] - INFO: Epoch: 094 | Batch: 000 | Loss: 1.54192 | Correct: 152/256
+2021-07-05 15:33:28,308 - fusion.py[line:121] - INFO: Epoch: 094 | Batch: 100 | Loss: 1.41948 | Correct: 159/256
+2021-07-05 15:34:37,765 - fusion.py[line:149] - INFO: Epoch: 094 | Validation Acc: 56.070 % | Historical Best: 56.240 %
+2021-07-05 15:34:44,014 - fusion.py[line:121] - INFO: Epoch: 095 | Batch: 000 | Loss: 1.42748 | Correct: 157/256
+2021-07-05 15:35:37,497 - fusion.py[line:121] - INFO: Epoch: 095 | Batch: 100 | Loss: 1.66117 | Correct: 136/256
+2021-07-05 15:36:41,428 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 15:36:41,544 - fusion.py[line:149] - INFO: Epoch: 095 | Validation Acc: 56.490 % | Historical Best: 56.490 %
+2021-07-05 15:36:47,707 - fusion.py[line:121] - INFO: Epoch: 096 | Batch: 000 | Loss: 1.65744 | Correct: 130/256
+2021-07-05 15:37:41,384 - fusion.py[line:121] - INFO: Epoch: 096 | Batch: 100 | Loss: 1.66133 | Correct: 145/256
+2021-07-05 15:38:48,308 - fusion.py[line:149] - INFO: Epoch: 096 | Validation Acc: 55.550 % | Historical Best: 56.490 %
+2021-07-05 15:38:53,860 - fusion.py[line:121] - INFO: Epoch: 097 | Batch: 000 | Loss: 1.55216 | Correct: 151/256
+2021-07-05 15:39:47,189 - fusion.py[line:121] - INFO: Epoch: 097 | Batch: 100 | Loss: 1.58481 | Correct: 142/256
+2021-07-05 15:40:52,978 - fusion.py[line:149] - INFO: Epoch: 097 | Validation Acc: 55.820 % | Historical Best: 56.490 %
+2021-07-05 15:40:58,810 - fusion.py[line:121] - INFO: Epoch: 098 | Batch: 000 | Loss: 1.63569 | Correct: 150/256
+2021-07-05 15:41:52,561 - fusion.py[line:121] - INFO: Epoch: 098 | Batch: 100 | Loss: 1.63551 | Correct: 150/256
+2021-07-05 15:42:57,794 - fusion.py[line:149] - INFO: Epoch: 098 | Validation Acc: 56.070 % | Historical Best: 56.490 %
+2021-07-05 15:43:04,048 - fusion.py[line:121] - INFO: Epoch: 099 | Batch: 000 | Loss: 1.61285 | Correct: 138/256
+2021-07-05 15:43:57,684 - fusion.py[line:121] - INFO: Epoch: 099 | Batch: 100 | Loss: 1.70679 | Correct: 144/256
+2021-07-05 15:45:02,383 - fusion.py[line:149] - INFO: Epoch: 099 | Validation Acc: 56.200 % | Historical Best: 56.490 %
+2021-07-05 15:45:08,606 - fusion.py[line:121] - INFO: Epoch: 100 | Batch: 000 | Loss: 1.55115 | Correct: 142/256
+2021-07-05 15:46:01,335 - fusion.py[line:121] - INFO: Epoch: 100 | Batch: 100 | Loss: 1.55084 | Correct: 146/256
+2021-07-05 15:47:11,871 - fusion.py[line:149] - INFO: Epoch: 100 | Validation Acc: 55.450 % | Historical Best: 56.490 %
+2021-07-05 15:47:16,664 - fusion.py[line:121] - INFO: Epoch: 101 | Batch: 000 | Loss: 1.53716 | Correct: 146/256
+2021-07-05 15:48:10,478 - fusion.py[line:121] - INFO: Epoch: 101 | Batch: 100 | Loss: 1.56814 | Correct: 138/256
+2021-07-05 15:49:16,040 - fusion.py[line:149] - INFO: Epoch: 101 | Validation Acc: 55.740 % | Historical Best: 56.490 %
+2021-07-05 15:49:22,205 - fusion.py[line:121] - INFO: Epoch: 102 | Batch: 000 | Loss: 1.56029 | Correct: 142/256
+2021-07-05 15:50:15,895 - fusion.py[line:121] - INFO: Epoch: 102 | Batch: 100 | Loss: 1.37455 | Correct: 153/256
+2021-07-05 15:51:20,634 - fusion.py[line:149] - INFO: Epoch: 102 | Validation Acc: 55.390 % | Historical Best: 56.490 %
+2021-07-05 15:51:25,674 - fusion.py[line:121] - INFO: Epoch: 103 | Batch: 000 | Loss: 1.48525 | Correct: 154/256
+2021-07-05 15:52:19,327 - fusion.py[line:121] - INFO: Epoch: 103 | Batch: 100 | Loss: 1.48650 | Correct: 149/256
+2021-07-05 15:53:24,688 - fusion.py[line:149] - INFO: Epoch: 103 | Validation Acc: 56.180 % | Historical Best: 56.490 %
+2021-07-05 15:53:29,590 - fusion.py[line:121] - INFO: Epoch: 104 | Batch: 000 | Loss: 1.61738 | Correct: 147/256
+2021-07-05 15:54:21,632 - fusion.py[line:121] - INFO: Epoch: 104 | Batch: 100 | Loss: 1.47384 | Correct: 146/256
+2021-07-05 15:55:28,495 - fusion.py[line:149] - INFO: Epoch: 104 | Validation Acc: 55.790 % | Historical Best: 56.490 %
+2021-07-05 15:55:34,629 - fusion.py[line:121] - INFO: Epoch: 105 | Batch: 000 | Loss: 1.44234 | Correct: 155/256
+2021-07-05 15:56:26,710 - fusion.py[line:121] - INFO: Epoch: 105 | Batch: 100 | Loss: 1.56275 | Correct: 154/256
+2021-07-05 15:57:30,460 - fusion.py[line:149] - INFO: Epoch: 105 | Validation Acc: 56.450 % | Historical Best: 56.490 %
+2021-07-05 15:57:36,335 - fusion.py[line:121] - INFO: Epoch: 106 | Batch: 000 | Loss: 1.43168 | Correct: 150/256
+2021-07-05 15:58:29,431 - fusion.py[line:121] - INFO: Epoch: 106 | Batch: 100 | Loss: 1.78093 | Correct: 136/256
+2021-07-05 15:59:34,783 - fusion.py[line:149] - INFO: Epoch: 106 | Validation Acc: 56.190 % | Historical Best: 56.490 %
+2021-07-05 15:59:40,929 - fusion.py[line:121] - INFO: Epoch: 107 | Batch: 000 | Loss: 1.48222 | Correct: 147/256
+2021-07-05 16:00:35,213 - fusion.py[line:121] - INFO: Epoch: 107 | Batch: 100 | Loss: 1.67906 | Correct: 141/256
+2021-07-05 16:01:42,107 - fusion.py[line:149] - INFO: Epoch: 107 | Validation Acc: 55.770 % | Historical Best: 56.490 %
+2021-07-05 16:01:48,378 - fusion.py[line:121] - INFO: Epoch: 108 | Batch: 000 | Loss: 1.56755 | Correct: 146/256
+2021-07-05 16:02:42,773 - fusion.py[line:121] - INFO: Epoch: 108 | Batch: 100 | Loss: 1.43118 | Correct: 146/256
+2021-07-05 16:03:48,379 - fusion.py[line:149] - INFO: Epoch: 108 | Validation Acc: 55.790 % | Historical Best: 56.490 %
+2021-07-05 16:03:54,507 - fusion.py[line:121] - INFO: Epoch: 109 | Batch: 000 | Loss: 1.50238 | Correct: 150/256
+2021-07-05 16:04:47,816 - fusion.py[line:121] - INFO: Epoch: 109 | Batch: 100 | Loss: 1.62856 | Correct: 141/256
+2021-07-05 16:05:53,962 - fusion.py[line:149] - INFO: Epoch: 109 | Validation Acc: 55.630 % | Historical Best: 56.490 %
+2021-07-05 16:06:00,444 - fusion.py[line:121] - INFO: Epoch: 110 | Batch: 000 | Loss: 1.57473 | Correct: 150/256
+2021-07-05 16:06:54,240 - fusion.py[line:121] - INFO: Epoch: 110 | Batch: 100 | Loss: 1.44969 | Correct: 153/256
+2021-07-05 16:08:04,703 - fusion.py[line:149] - INFO: Epoch: 110 | Validation Acc: 55.850 % | Historical Best: 56.490 %
+2021-07-05 16:08:10,966 - fusion.py[line:121] - INFO: Epoch: 111 | Batch: 000 | Loss: 1.44516 | Correct: 145/256
+2021-07-05 16:09:05,937 - fusion.py[line:121] - INFO: Epoch: 111 | Batch: 100 | Loss: 1.56234 | Correct: 147/256
+2021-07-05 16:10:14,575 - fusion.py[line:149] - INFO: Epoch: 111 | Validation Acc: 55.780 % | Historical Best: 56.490 %
+2021-07-05 16:10:20,728 - fusion.py[line:121] - INFO: Epoch: 112 | Batch: 000 | Loss: 1.50580 | Correct: 139/256
+2021-07-05 16:11:15,601 - fusion.py[line:121] - INFO: Epoch: 112 | Batch: 100 | Loss: 1.39457 | Correct: 146/256
+2021-07-05 16:12:23,575 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 16:12:23,691 - fusion.py[line:149] - INFO: Epoch: 112 | Validation Acc: 56.740 % | Historical Best: 56.740 %
+2021-07-05 16:12:29,470 - fusion.py[line:121] - INFO: Epoch: 113 | Batch: 000 | Loss: 1.44922 | Correct: 141/256
+2021-07-05 16:13:25,347 - fusion.py[line:121] - INFO: Epoch: 113 | Batch: 100 | Loss: 1.57000 | Correct: 144/256
+2021-07-05 16:14:28,279 - fusion.py[line:149] - INFO: Epoch: 113 | Validation Acc: 55.870 % | Historical Best: 56.740 %
+2021-07-05 16:14:34,471 - fusion.py[line:121] - INFO: Epoch: 114 | Batch: 000 | Loss: 1.64016 | Correct: 136/256
+2021-07-05 16:15:27,244 - fusion.py[line:121] - INFO: Epoch: 114 | Batch: 100 | Loss: 1.50173 | Correct: 146/256
+2021-07-05 16:16:34,337 - fusion.py[line:149] - INFO: Epoch: 114 | Validation Acc: 56.430 % | Historical Best: 56.740 %
+2021-07-05 16:16:40,628 - fusion.py[line:121] - INFO: Epoch: 115 | Batch: 000 | Loss: 1.51455 | Correct: 145/256
+2021-07-05 16:17:34,751 - fusion.py[line:121] - INFO: Epoch: 115 | Batch: 100 | Loss: 1.44872 | Correct: 149/256
+2021-07-05 16:18:46,345 - fusion.py[line:149] - INFO: Epoch: 115 | Validation Acc: 55.660 % | Historical Best: 56.740 %
+2021-07-05 16:18:52,497 - fusion.py[line:121] - INFO: Epoch: 116 | Batch: 000 | Loss: 1.56282 | Correct: 142/256
+2021-07-05 16:19:46,712 - fusion.py[line:121] - INFO: Epoch: 116 | Batch: 100 | Loss: 1.54310 | Correct: 138/256
+2021-07-05 16:20:49,788 - fusion.py[line:149] - INFO: Epoch: 116 | Validation Acc: 56.740 % | Historical Best: 56.740 %
+2021-07-05 16:20:55,921 - fusion.py[line:121] - INFO: Epoch: 117 | Batch: 000 | Loss: 1.35270 | Correct: 160/256
+2021-07-05 16:21:48,414 - fusion.py[line:121] - INFO: Epoch: 117 | Batch: 100 | Loss: 1.50455 | Correct: 151/256
+2021-07-05 16:22:52,482 - fusion.py[line:149] - INFO: Epoch: 117 | Validation Acc: 55.760 % | Historical Best: 56.740 %
+2021-07-05 16:22:58,476 - fusion.py[line:121] - INFO: Epoch: 118 | Batch: 000 | Loss: 1.71698 | Correct: 139/256
+2021-07-05 16:23:52,162 - fusion.py[line:121] - INFO: Epoch: 118 | Batch: 100 | Loss: 1.51062 | Correct: 152/256
+2021-07-05 16:24:59,038 - fusion.py[line:149] - INFO: Epoch: 118 | Validation Acc: 56.580 % | Historical Best: 56.740 %
+2021-07-05 16:25:05,261 - fusion.py[line:121] - INFO: Epoch: 119 | Batch: 000 | Loss: 1.58935 | Correct: 135/256
+2021-07-05 16:25:59,294 - fusion.py[line:121] - INFO: Epoch: 119 | Batch: 100 | Loss: 1.63575 | Correct: 133/256
+2021-07-05 16:27:01,879 - fusion.py[line:149] - INFO: Epoch: 119 | Validation Acc: 55.610 % | Historical Best: 56.740 %
+2021-07-05 16:27:07,999 - fusion.py[line:121] - INFO: Epoch: 120 | Batch: 000 | Loss: 1.47118 | Correct: 146/256
+2021-07-05 16:27:59,643 - fusion.py[line:121] - INFO: Epoch: 120 | Batch: 100 | Loss: 1.70753 | Correct: 136/256
+2021-07-05 16:29:04,404 - fusion.py[line:149] - INFO: Epoch: 120 | Validation Acc: 55.770 % | Historical Best: 56.740 %
+2021-07-05 16:29:10,595 - fusion.py[line:121] - INFO: Epoch: 121 | Batch: 000 | Loss: 1.38154 | Correct: 151/256
+2021-07-05 16:30:04,036 - fusion.py[line:121] - INFO: Epoch: 121 | Batch: 100 | Loss: 1.38888 | Correct: 151/256
+2021-07-05 16:31:10,165 - fusion.py[line:149] - INFO: Epoch: 121 | Validation Acc: 55.700 % | Historical Best: 56.740 %
+2021-07-05 16:31:16,454 - fusion.py[line:121] - INFO: Epoch: 122 | Batch: 000 | Loss: 1.63811 | Correct: 140/256
+2021-07-05 16:32:09,432 - fusion.py[line:121] - INFO: Epoch: 122 | Batch: 100 | Loss: 1.48116 | Correct: 150/256
+2021-07-05 16:33:15,229 - fusion.py[line:149] - INFO: Epoch: 122 | Validation Acc: 55.930 % | Historical Best: 56.740 %
+2021-07-05 16:33:20,257 - fusion.py[line:121] - INFO: Epoch: 123 | Batch: 000 | Loss: 1.52992 | Correct: 158/256
+2021-07-05 16:34:16,586 - fusion.py[line:121] - INFO: Epoch: 123 | Batch: 100 | Loss: 1.68457 | Correct: 146/256
+2021-07-05 16:35:25,615 - fusion.py[line:149] - INFO: Epoch: 123 | Validation Acc: 56.440 % | Historical Best: 56.740 %
+2021-07-05 16:35:31,823 - fusion.py[line:121] - INFO: Epoch: 124 | Batch: 000 | Loss: 1.55653 | Correct: 145/256
+2021-07-05 16:36:26,601 - fusion.py[line:121] - INFO: Epoch: 124 | Batch: 100 | Loss: 1.55817 | Correct: 145/256
+2021-07-05 16:37:34,614 - fusion.py[line:149] - INFO: Epoch: 124 | Validation Acc: 56.630 % | Historical Best: 56.740 %
+2021-07-05 16:37:40,765 - fusion.py[line:121] - INFO: Epoch: 125 | Batch: 000 | Loss: 1.55476 | Correct: 145/256
+2021-07-05 16:38:34,548 - fusion.py[line:121] - INFO: Epoch: 125 | Batch: 100 | Loss: 1.59404 | Correct: 145/256
+2021-07-05 16:39:44,247 - fusion.py[line:149] - INFO: Epoch: 125 | Validation Acc: 56.590 % | Historical Best: 56.740 %
+2021-07-05 16:39:49,179 - fusion.py[line:121] - INFO: Epoch: 126 | Batch: 000 | Loss: 1.46878 | Correct: 157/256
+2021-07-05 16:40:43,461 - fusion.py[line:121] - INFO: Epoch: 126 | Batch: 100 | Loss: 1.57679 | Correct: 144/256
+2021-07-05 16:41:51,979 - fusion.py[line:149] - INFO: Epoch: 126 | Validation Acc: 55.920 % | Historical Best: 56.740 %
+2021-07-05 16:41:58,247 - fusion.py[line:121] - INFO: Epoch: 127 | Batch: 000 | Loss: 1.37567 | Correct: 159/256
+2021-07-05 16:42:50,572 - fusion.py[line:121] - INFO: Epoch: 127 | Batch: 100 | Loss: 1.63165 | Correct: 135/256
+2021-07-05 16:43:55,612 - fusion.py[line:149] - INFO: Epoch: 127 | Validation Acc: 56.100 % | Historical Best: 56.740 %
+2021-07-05 16:44:01,829 - fusion.py[line:121] - INFO: Epoch: 128 | Batch: 000 | Loss: 1.67255 | Correct: 136/256
+2021-07-05 16:44:56,478 - fusion.py[line:121] - INFO: Epoch: 128 | Batch: 100 | Loss: 1.52014 | Correct: 144/256
+2021-07-05 16:46:03,318 - fusion.py[line:149] - INFO: Epoch: 128 | Validation Acc: 56.240 % | Historical Best: 56.740 %
+2021-07-05 16:46:09,601 - fusion.py[line:121] - INFO: Epoch: 129 | Batch: 000 | Loss: 1.50290 | Correct: 145/256
+2021-07-05 16:47:03,629 - fusion.py[line:121] - INFO: Epoch: 129 | Batch: 100 | Loss: 1.56151 | Correct: 146/256
+2021-07-05 16:48:07,503 - fusion.py[line:149] - INFO: Epoch: 129 | Validation Acc: 56.100 % | Historical Best: 56.740 %
+2021-07-05 16:48:13,315 - fusion.py[line:121] - INFO: Epoch: 130 | Batch: 000 | Loss: 1.61016 | Correct: 137/256
+2021-07-05 16:49:07,273 - fusion.py[line:121] - INFO: Epoch: 130 | Batch: 100 | Loss: 1.61819 | Correct: 138/256
+2021-07-05 16:50:18,038 - fusion.py[line:149] - INFO: Epoch: 130 | Validation Acc: 56.360 % | Historical Best: 56.740 %
+2021-07-05 16:50:24,317 - fusion.py[line:121] - INFO: Epoch: 131 | Batch: 000 | Loss: 1.42820 | Correct: 150/256
+2021-07-05 16:51:19,026 - fusion.py[line:121] - INFO: Epoch: 131 | Batch: 100 | Loss: 1.42343 | Correct: 153/256
+2021-07-05 16:52:25,008 - fusion.py[line:149] - INFO: Epoch: 131 | Validation Acc: 55.880 % | Historical Best: 56.740 %
+2021-07-05 16:52:31,077 - fusion.py[line:121] - INFO: Epoch: 132 | Batch: 000 | Loss: 1.27657 | Correct: 166/256
+2021-07-05 16:53:25,344 - fusion.py[line:121] - INFO: Epoch: 132 | Batch: 100 | Loss: 1.38732 | Correct: 154/256
+2021-07-05 16:54:31,935 - fusion.py[line:149] - INFO: Epoch: 132 | Validation Acc: 55.830 % | Historical Best: 56.740 %
+2021-07-05 16:54:36,725 - fusion.py[line:121] - INFO: Epoch: 133 | Batch: 000 | Loss: 1.54205 | Correct: 146/256
+2021-07-05 16:55:29,697 - fusion.py[line:121] - INFO: Epoch: 133 | Batch: 100 | Loss: 1.37671 | Correct: 159/256
+2021-07-05 16:56:39,053 - fusion.py[line:149] - INFO: Epoch: 133 | Validation Acc: 56.370 % | Historical Best: 56.740 %
+2021-07-05 16:56:45,435 - fusion.py[line:121] - INFO: Epoch: 134 | Batch: 000 | Loss: 1.43715 | Correct: 148/256
+2021-07-05 16:57:38,438 - fusion.py[line:121] - INFO: Epoch: 134 | Batch: 100 | Loss: 1.57986 | Correct: 149/256
+2021-07-05 16:58:47,531 - fusion.py[line:149] - INFO: Epoch: 134 | Validation Acc: 56.590 % | Historical Best: 56.740 %
+2021-07-05 16:58:53,702 - fusion.py[line:121] - INFO: Epoch: 135 | Batch: 000 | Loss: 1.58399 | Correct: 147/256
+2021-07-05 16:59:48,442 - fusion.py[line:121] - INFO: Epoch: 135 | Batch: 100 | Loss: 1.37809 | Correct: 158/256
+2021-07-05 17:00:53,984 - fusion.py[line:149] - INFO: Epoch: 135 | Validation Acc: 56.420 % | Historical Best: 56.740 %
+2021-07-05 17:01:00,229 - fusion.py[line:121] - INFO: Epoch: 136 | Batch: 000 | Loss: 1.57040 | Correct: 139/256
+2021-07-05 17:01:52,956 - fusion.py[line:121] - INFO: Epoch: 136 | Batch: 100 | Loss: 1.44638 | Correct: 160/256
+2021-07-05 17:02:57,881 - fusion.py[line:149] - INFO: Epoch: 136 | Validation Acc: 56.490 % | Historical Best: 56.740 %
+2021-07-05 17:03:03,814 - fusion.py[line:121] - INFO: Epoch: 137 | Batch: 000 | Loss: 1.23126 | Correct: 157/256
+2021-07-05 17:03:57,152 - fusion.py[line:121] - INFO: Epoch: 137 | Batch: 100 | Loss: 1.73045 | Correct: 134/256
+2021-07-05 17:05:00,860 - fusion.py[line:149] - INFO: Epoch: 137 | Validation Acc: 56.400 % | Historical Best: 56.740 %
+2021-07-05 17:05:06,845 - fusion.py[line:121] - INFO: Epoch: 138 | Batch: 000 | Loss: 1.66114 | Correct: 145/256
+2021-07-05 17:06:00,739 - fusion.py[line:121] - INFO: Epoch: 138 | Batch: 100 | Loss: 1.54362 | Correct: 143/256
+2021-07-05 17:07:06,384 - fusion.py[line:149] - INFO: Epoch: 138 | Validation Acc: 56.230 % | Historical Best: 56.740 %
+2021-07-05 17:07:11,773 - fusion.py[line:121] - INFO: Epoch: 139 | Batch: 000 | Loss: 1.48979 | Correct: 146/256
+2021-07-05 17:08:05,504 - fusion.py[line:121] - INFO: Epoch: 139 | Batch: 100 | Loss: 1.66595 | Correct: 135/256
+2021-07-05 17:09:12,969 - fusion.py[line:149] - INFO: Epoch: 139 | Validation Acc: 56.280 % | Historical Best: 56.740 %
+2021-07-05 17:09:19,153 - fusion.py[line:121] - INFO: Epoch: 140 | Batch: 000 | Loss: 1.30935 | Correct: 168/256
+2021-07-05 17:10:12,737 - fusion.py[line:121] - INFO: Epoch: 140 | Batch: 100 | Loss: 1.46722 | Correct: 144/256
+2021-07-05 17:11:19,689 - fusion.py[line:149] - INFO: Epoch: 140 | Validation Acc: 56.160 % | Historical Best: 56.740 %
+2021-07-05 17:11:24,496 - fusion.py[line:121] - INFO: Epoch: 141 | Batch: 000 | Loss: 1.47813 | Correct: 151/256
+2021-07-05 17:12:16,417 - fusion.py[line:121] - INFO: Epoch: 141 | Batch: 100 | Loss: 1.72057 | Correct: 136/256
+2021-07-05 17:13:27,573 - fusion.py[line:149] - INFO: Epoch: 141 | Validation Acc: 55.980 % | Historical Best: 56.740 %
+2021-07-05 17:13:33,826 - fusion.py[line:121] - INFO: Epoch: 142 | Batch: 000 | Loss: 1.41775 | Correct: 153/256
+2021-07-05 17:14:27,318 - fusion.py[line:121] - INFO: Epoch: 142 | Batch: 100 | Loss: 1.66490 | Correct: 144/256
+2021-07-05 17:15:34,457 - fusion.py[line:149] - INFO: Epoch: 142 | Validation Acc: 56.400 % | Historical Best: 56.740 %
+2021-07-05 17:15:40,660 - fusion.py[line:121] - INFO: Epoch: 143 | Batch: 000 | Loss: 1.70332 | Correct: 144/256
+2021-07-05 17:16:33,833 - fusion.py[line:121] - INFO: Epoch: 143 | Batch: 100 | Loss: 1.46524 | Correct: 155/256
+2021-07-05 17:17:39,414 - fusion.py[line:149] - INFO: Epoch: 143 | Validation Acc: 55.930 % | Historical Best: 56.740 %
+2021-07-05 17:17:45,562 - fusion.py[line:121] - INFO: Epoch: 144 | Batch: 000 | Loss: 1.47260 | Correct: 140/256
+2021-07-05 17:18:40,820 - fusion.py[line:121] - INFO: Epoch: 144 | Batch: 100 | Loss: 1.56558 | Correct: 136/256
+2021-07-05 17:19:48,632 - fusion.py[line:149] - INFO: Epoch: 144 | Validation Acc: 56.220 % | Historical Best: 56.740 %
+2021-07-05 17:19:54,197 - fusion.py[line:121] - INFO: Epoch: 145 | Batch: 000 | Loss: 1.54109 | Correct: 134/256
+2021-07-05 17:20:49,582 - fusion.py[line:121] - INFO: Epoch: 145 | Batch: 100 | Loss: 1.54342 | Correct: 147/256
+2021-07-05 17:21:58,457 - fusion.py[line:149] - INFO: Epoch: 145 | Validation Acc: 56.680 % | Historical Best: 56.740 %
+2021-07-05 17:22:04,710 - fusion.py[line:121] - INFO: Epoch: 146 | Batch: 000 | Loss: 1.46726 | Correct: 151/256
+2021-07-05 17:22:57,472 - fusion.py[line:121] - INFO: Epoch: 146 | Batch: 100 | Loss: 1.47141 | Correct: 144/256
+2021-07-05 17:24:05,090 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 17:24:05,207 - fusion.py[line:149] - INFO: Epoch: 146 | Validation Acc: 56.760 % | Historical Best: 56.760 %
+2021-07-05 17:24:11,537 - fusion.py[line:121] - INFO: Epoch: 147 | Batch: 000 | Loss: 1.58210 | Correct: 146/256
+2021-07-05 17:25:03,966 - fusion.py[line:121] - INFO: Epoch: 147 | Batch: 100 | Loss: 1.49063 | Correct: 148/256
+2021-07-05 17:26:10,293 - fusion.py[line:149] - INFO: Epoch: 147 | Validation Acc: 56.240 % | Historical Best: 56.760 %
+2021-07-05 17:26:15,296 - fusion.py[line:121] - INFO: Epoch: 148 | Batch: 000 | Loss: 1.44334 | Correct: 150/256
+2021-07-05 17:27:09,505 - fusion.py[line:121] - INFO: Epoch: 148 | Batch: 100 | Loss: 1.57335 | Correct: 141/256
+2021-07-05 17:28:15,174 - fusion.py[line:149] - INFO: Epoch: 148 | Validation Acc: 56.180 % | Historical Best: 56.760 %
+2021-07-05 17:28:21,314 - fusion.py[line:121] - INFO: Epoch: 149 | Batch: 000 | Loss: 1.37435 | Correct: 160/256
+2021-07-05 17:29:14,412 - fusion.py[line:121] - INFO: Epoch: 149 | Batch: 100 | Loss: 1.53113 | Correct: 134/256
+2021-07-05 17:30:25,951 - fusion.py[line:149] - INFO: Epoch: 149 | Validation Acc: 56.580 % | Historical Best: 56.760 %
+2021-07-05 17:30:32,269 - fusion.py[line:121] - INFO: Epoch: 150 | Batch: 000 | Loss: 1.49872 | Correct: 148/256
+2021-07-05 17:31:27,194 - fusion.py[line:121] - INFO: Epoch: 150 | Batch: 100 | Loss: 1.59065 | Correct: 150/256
+2021-07-05 17:32:35,451 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 17:32:35,597 - fusion.py[line:149] - INFO: Epoch: 150 | Validation Acc: 57.160 % | Historical Best: 57.160 %
+2021-07-05 17:32:41,812 - fusion.py[line:121] - INFO: Epoch: 151 | Batch: 000 | Loss: 1.41100 | Correct: 151/256
+2021-07-05 17:33:36,022 - fusion.py[line:121] - INFO: Epoch: 151 | Batch: 100 | Loss: 1.53498 | Correct: 151/256
+2021-07-05 17:34:45,779 - fusion.py[line:149] - INFO: Epoch: 151 | Validation Acc: 56.370 % | Historical Best: 57.160 %
+2021-07-05 17:34:52,029 - fusion.py[line:121] - INFO: Epoch: 152 | Batch: 000 | Loss: 1.48097 | Correct: 149/256
+2021-07-05 17:35:46,870 - fusion.py[line:121] - INFO: Epoch: 152 | Batch: 100 | Loss: 1.49437 | Correct: 147/256
+2021-07-05 17:36:51,642 - fusion.py[line:149] - INFO: Epoch: 152 | Validation Acc: 56.490 % | Historical Best: 57.160 %
+2021-07-05 17:36:56,385 - fusion.py[line:121] - INFO: Epoch: 153 | Batch: 000 | Loss: 1.64955 | Correct: 136/256
+2021-07-05 17:37:49,388 - fusion.py[line:121] - INFO: Epoch: 153 | Batch: 100 | Loss: 1.35447 | Correct: 150/256
+2021-07-05 17:38:59,811 - fusion.py[line:149] - INFO: Epoch: 153 | Validation Acc: 55.830 % | Historical Best: 57.160 %
+2021-07-05 17:39:06,019 - fusion.py[line:121] - INFO: Epoch: 154 | Batch: 000 | Loss: 1.46367 | Correct: 152/256
+2021-07-05 17:40:02,164 - fusion.py[line:121] - INFO: Epoch: 154 | Batch: 100 | Loss: 1.51292 | Correct: 154/256
+2021-07-05 17:41:11,164 - fusion.py[line:149] - INFO: Epoch: 154 | Validation Acc: 56.550 % | Historical Best: 57.160 %
+2021-07-05 17:41:17,523 - fusion.py[line:121] - INFO: Epoch: 155 | Batch: 000 | Loss: 1.32815 | Correct: 162/256
+2021-07-05 17:42:09,899 - fusion.py[line:121] - INFO: Epoch: 155 | Batch: 100 | Loss: 1.46712 | Correct: 151/256
+2021-07-05 17:43:20,583 - fusion.py[line:149] - INFO: Epoch: 155 | Validation Acc: 56.370 % | Historical Best: 57.160 %
+2021-07-05 17:43:26,105 - fusion.py[line:121] - INFO: Epoch: 156 | Batch: 000 | Loss: 1.45597 | Correct: 150/256
+2021-07-05 17:44:22,137 - fusion.py[line:121] - INFO: Epoch: 156 | Batch: 100 | Loss: 1.42059 | Correct: 149/256
+2021-07-05 17:45:30,047 - fusion.py[line:149] - INFO: Epoch: 156 | Validation Acc: 56.160 % | Historical Best: 57.160 %
+2021-07-05 17:45:35,009 - fusion.py[line:121] - INFO: Epoch: 157 | Batch: 000 | Loss: 1.52967 | Correct: 152/256
+2021-07-05 17:46:28,260 - fusion.py[line:121] - INFO: Epoch: 157 | Batch: 100 | Loss: 1.72508 | Correct: 139/256
+2021-07-05 17:47:33,970 - fusion.py[line:149] - INFO: Epoch: 157 | Validation Acc: 56.480 % | Historical Best: 57.160 %
+2021-07-05 17:47:38,829 - fusion.py[line:121] - INFO: Epoch: 158 | Batch: 000 | Loss: 1.39414 | Correct: 164/256
+2021-07-05 17:48:32,508 - fusion.py[line:121] - INFO: Epoch: 158 | Batch: 100 | Loss: 1.45508 | Correct: 143/256
+2021-07-05 17:49:39,895 - fusion.py[line:149] - INFO: Epoch: 158 | Validation Acc: 55.900 % | Historical Best: 57.160 %
+2021-07-05 17:49:46,121 - fusion.py[line:121] - INFO: Epoch: 159 | Batch: 000 | Loss: 1.27040 | Correct: 165/256
+2021-07-05 17:50:40,793 - fusion.py[line:121] - INFO: Epoch: 159 | Batch: 100 | Loss: 1.45414 | Correct: 155/256
+2021-07-05 17:51:51,986 - fusion.py[line:149] - INFO: Epoch: 159 | Validation Acc: 56.000 % | Historical Best: 57.160 %
+2021-07-05 17:51:57,423 - fusion.py[line:121] - INFO: Epoch: 160 | Batch: 000 | Loss: 1.58235 | Correct: 149/256
+2021-07-05 17:52:52,317 - fusion.py[line:121] - INFO: Epoch: 160 | Batch: 100 | Loss: 1.51385 | Correct: 151/256
+2021-07-05 17:53:58,691 - fusion.py[line:149] - INFO: Epoch: 160 | Validation Acc: 56.640 % | Historical Best: 57.160 %
+2021-07-05 17:54:04,906 - fusion.py[line:121] - INFO: Epoch: 161 | Batch: 000 | Loss: 1.56538 | Correct: 145/256
+2021-07-05 17:54:58,587 - fusion.py[line:121] - INFO: Epoch: 161 | Batch: 100 | Loss: 1.43293 | Correct: 142/256
+2021-07-05 17:56:07,086 - fusion.py[line:149] - INFO: Epoch: 161 | Validation Acc: 56.630 % | Historical Best: 57.160 %
+2021-07-05 17:56:13,364 - fusion.py[line:121] - INFO: Epoch: 162 | Batch: 000 | Loss: 1.56311 | Correct: 140/256
+2021-07-05 17:57:07,563 - fusion.py[line:121] - INFO: Epoch: 162 | Batch: 100 | Loss: 1.31570 | Correct: 158/256
+2021-07-05 17:58:15,985 - fusion.py[line:149] - INFO: Epoch: 162 | Validation Acc: 55.860 % | Historical Best: 57.160 %
+2021-07-05 17:58:22,200 - fusion.py[line:121] - INFO: Epoch: 163 | Batch: 000 | Loss: 1.46636 | Correct: 143/256
+2021-07-05 17:59:15,584 - fusion.py[line:121] - INFO: Epoch: 163 | Batch: 100 | Loss: 1.56414 | Correct: 146/256
+2021-07-05 18:00:24,060 - fusion.py[line:149] - INFO: Epoch: 163 | Validation Acc: 56.660 % | Historical Best: 57.160 %
+2021-07-05 18:00:30,309 - fusion.py[line:121] - INFO: Epoch: 164 | Batch: 000 | Loss: 1.52623 | Correct: 155/256
+2021-07-05 18:01:25,340 - fusion.py[line:121] - INFO: Epoch: 164 | Batch: 100 | Loss: 1.35313 | Correct: 153/256
+2021-07-05 18:02:32,536 - fusion.py[line:149] - INFO: Epoch: 164 | Validation Acc: 56.500 % | Historical Best: 57.160 %
+2021-07-05 18:02:37,767 - fusion.py[line:121] - INFO: Epoch: 165 | Batch: 000 | Loss: 1.54922 | Correct: 144/256
+2021-07-05 18:03:31,815 - fusion.py[line:121] - INFO: Epoch: 165 | Batch: 100 | Loss: 1.73904 | Correct: 132/256
+2021-07-05 18:04:40,935 - fusion.py[line:149] - INFO: Epoch: 165 | Validation Acc: 56.750 % | Historical Best: 57.160 %
+2021-07-05 18:04:45,750 - fusion.py[line:121] - INFO: Epoch: 166 | Batch: 000 | Loss: 1.56029 | Correct: 149/256
+2021-07-05 18:05:39,436 - fusion.py[line:121] - INFO: Epoch: 166 | Batch: 100 | Loss: 1.37978 | Correct: 146/256
+2021-07-05 18:06:47,735 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 18:06:47,899 - fusion.py[line:149] - INFO: Epoch: 166 | Validation Acc: 57.170 % | Historical Best: 57.170 %
+2021-07-05 18:06:54,319 - fusion.py[line:121] - INFO: Epoch: 167 | Batch: 000 | Loss: 1.48300 | Correct: 148/256
+2021-07-05 18:07:50,253 - fusion.py[line:121] - INFO: Epoch: 167 | Batch: 100 | Loss: 1.59624 | Correct: 147/256
+2021-07-05 18:08:59,777 - fusion.py[line:149] - INFO: Epoch: 167 | Validation Acc: 56.570 % | Historical Best: 57.170 %
+2021-07-05 18:09:06,198 - fusion.py[line:121] - INFO: Epoch: 168 | Batch: 000 | Loss: 1.19315 | Correct: 160/256
+2021-07-05 18:09:58,884 - fusion.py[line:121] - INFO: Epoch: 168 | Batch: 100 | Loss: 1.47124 | Correct: 149/256
+2021-07-05 18:11:06,874 - fusion.py[line:149] - INFO: Epoch: 168 | Validation Acc: 56.470 % | Historical Best: 57.170 %
+2021-07-05 18:11:13,507 - fusion.py[line:121] - INFO: Epoch: 169 | Batch: 000 | Loss: 1.51432 | Correct: 154/256
+2021-07-05 18:12:06,196 - fusion.py[line:121] - INFO: Epoch: 169 | Batch: 100 | Loss: 1.58548 | Correct: 142/256
+2021-07-05 18:13:13,219 - fusion.py[line:149] - INFO: Epoch: 169 | Validation Acc: 56.340 % | Historical Best: 57.170 %
+2021-07-05 18:13:19,702 - fusion.py[line:121] - INFO: Epoch: 170 | Batch: 000 | Loss: 1.39255 | Correct: 151/256
+2021-07-05 18:14:14,689 - fusion.py[line:121] - INFO: Epoch: 170 | Batch: 100 | Loss: 1.46643 | Correct: 147/256
+2021-07-05 18:15:24,870 - fusion.py[line:149] - INFO: Epoch: 170 | Validation Acc: 56.830 % | Historical Best: 57.170 %
+2021-07-05 18:15:30,727 - fusion.py[line:121] - INFO: Epoch: 171 | Batch: 000 | Loss: 1.30754 | Correct: 162/256
+2021-07-05 18:16:24,323 - fusion.py[line:121] - INFO: Epoch: 171 | Batch: 100 | Loss: 1.53859 | Correct: 148/256
+2021-07-05 18:17:31,977 - fusion.py[line:149] - INFO: Epoch: 171 | Validation Acc: 56.880 % | Historical Best: 57.170 %
+2021-07-05 18:17:38,287 - fusion.py[line:121] - INFO: Epoch: 172 | Batch: 000 | Loss: 1.63386 | Correct: 153/256
+2021-07-05 18:18:34,087 - fusion.py[line:121] - INFO: Epoch: 172 | Batch: 100 | Loss: 1.30249 | Correct: 148/256
+2021-07-05 18:19:39,348 - fusion.py[line:149] - INFO: Epoch: 172 | Validation Acc: 56.530 % | Historical Best: 57.170 %
+2021-07-05 18:19:45,688 - fusion.py[line:121] - INFO: Epoch: 173 | Batch: 000 | Loss: 1.53638 | Correct: 149/256
+2021-07-05 18:20:40,330 - fusion.py[line:121] - INFO: Epoch: 173 | Batch: 100 | Loss: 1.52445 | Correct: 146/256
+2021-07-05 18:21:50,263 - fusion.py[line:149] - INFO: Epoch: 173 | Validation Acc: 56.320 % | Historical Best: 57.170 %
+2021-07-05 18:21:56,655 - fusion.py[line:121] - INFO: Epoch: 174 | Batch: 000 | Loss: 1.43775 | Correct: 149/256
+2021-07-05 18:22:50,023 - fusion.py[line:121] - INFO: Epoch: 174 | Batch: 100 | Loss: 1.36579 | Correct: 153/256
+2021-07-05 18:23:58,372 - fusion.py[line:149] - INFO: Epoch: 174 | Validation Acc: 56.300 % | Historical Best: 57.170 %
+2021-07-05 18:24:03,270 - fusion.py[line:121] - INFO: Epoch: 175 | Batch: 000 | Loss: 1.34534 | Correct: 153/256
+2021-07-05 18:24:57,435 - fusion.py[line:121] - INFO: Epoch: 175 | Batch: 100 | Loss: 1.33521 | Correct: 154/256
+2021-07-05 18:26:00,897 - fusion.py[line:149] - INFO: Epoch: 175 | Validation Acc: 56.850 % | Historical Best: 57.170 %
+2021-07-05 18:26:07,209 - fusion.py[line:121] - INFO: Epoch: 176 | Batch: 000 | Loss: 1.36400 | Correct: 158/256
+2021-07-05 18:27:01,771 - fusion.py[line:121] - INFO: Epoch: 176 | Batch: 100 | Loss: 1.41877 | Correct: 155/256
+2021-07-05 18:28:07,675 - fusion.py[line:149] - INFO: Epoch: 176 | Validation Acc: 56.540 % | Historical Best: 57.170 %
+2021-07-05 18:28:13,179 - fusion.py[line:121] - INFO: Epoch: 177 | Batch: 000 | Loss: 1.44355 | Correct: 158/256
+2021-07-05 18:29:08,165 - fusion.py[line:121] - INFO: Epoch: 177 | Batch: 100 | Loss: 1.44706 | Correct: 150/256
+2021-07-05 18:30:17,399 - fusion.py[line:149] - INFO: Epoch: 177 | Validation Acc: 56.530 % | Historical Best: 57.170 %
+2021-07-05 18:30:23,721 - fusion.py[line:121] - INFO: Epoch: 178 | Batch: 000 | Loss: 1.56411 | Correct: 149/256
+2021-07-05 18:31:17,938 - fusion.py[line:121] - INFO: Epoch: 178 | Batch: 100 | Loss: 1.44363 | Correct: 145/256
+2021-07-05 18:32:23,015 - fusion.py[line:149] - INFO: Epoch: 178 | Validation Acc: 56.390 % | Historical Best: 57.170 %
+2021-07-05 18:32:29,283 - fusion.py[line:121] - INFO: Epoch: 179 | Batch: 000 | Loss: 1.56343 | Correct: 149/256
+2021-07-05 18:33:22,189 - fusion.py[line:121] - INFO: Epoch: 179 | Batch: 100 | Loss: 1.54363 | Correct: 145/256
+2021-07-05 18:34:28,465 - fusion.py[line:149] - INFO: Epoch: 179 | Validation Acc: 56.290 % | Historical Best: 57.170 %
+2021-07-05 18:34:33,483 - fusion.py[line:121] - INFO: Epoch: 180 | Batch: 000 | Loss: 1.42031 | Correct: 148/256
+2021-07-05 18:35:28,823 - fusion.py[line:121] - INFO: Epoch: 180 | Batch: 100 | Loss: 1.51015 | Correct: 151/256
+2021-07-05 18:36:34,117 - fusion.py[line:149] - INFO: Epoch: 180 | Validation Acc: 56.490 % | Historical Best: 57.170 %
+2021-07-05 18:36:40,418 - fusion.py[line:121] - INFO: Epoch: 181 | Batch: 000 | Loss: 1.35496 | Correct: 163/256
+2021-07-05 18:37:34,668 - fusion.py[line:121] - INFO: Epoch: 181 | Batch: 100 | Loss: 1.61035 | Correct: 137/256
+2021-07-05 18:38:43,521 - io.py[line:34] - INFO: Saving the model to `models/FusionClassifier_DataParallel_8_ckpt.pth`
+2021-07-05 18:38:43,639 - fusion.py[line:149] - INFO: Epoch: 181 | Validation Acc: 57.280 % | Historical Best: 57.280 %
+2021-07-05 18:38:50,035 - fusion.py[line:121] - INFO: Epoch: 182 | Batch: 000 | Loss: 1.65450 | Correct: 137/256
+2021-07-05 18:39:43,963 - fusion.py[line:121] - INFO: Epoch: 182 | Batch: 100 | Loss: 1.54457 | Correct: 136/256
+2021-07-05 18:40:50,984 - fusion.py[line:149] - INFO: Epoch: 182 | Validation Acc: 57.070 % | Historical Best: 57.280 %
+2021-07-05 18:40:57,264 - fusion.py[line:121] - INFO: Epoch: 183 | Batch: 000 | Loss: 1.44360 | Correct: 155/256
+2021-07-05 18:41:50,234 - fusion.py[line:121] - INFO: Epoch: 183 | Batch: 100 | Loss: 1.56485 | Correct: 141/256
+2021-07-05 18:42:57,814 - fusion.py[line:149] - INFO: Epoch: 183 | Validation Acc: 56.990 % | Historical Best: 57.280 %
+2021-07-05 18:43:02,615 - fusion.py[line:121] - INFO: Epoch: 184 | Batch: 000 | Loss: 1.42759 | Correct: 147/256
+2021-07-05 18:43:56,745 - fusion.py[line:121] - INFO: Epoch: 184 | Batch: 100 | Loss: 1.46388 | Correct: 156/256
+2021-07-05 18:45:05,149 - fusion.py[line:149] - INFO: Epoch: 184 | Validation Acc: 56.810 % | Historical Best: 57.280 %
+2021-07-05 18:45:11,683 - fusion.py[line:121] - INFO: Epoch: 185 | Batch: 000 | Loss: 1.47570 | Correct: 144/256
+2021-07-05 18:46:05,476 - fusion.py[line:121] - INFO: Epoch: 185 | Batch: 100 | Loss: 1.53188 | Correct: 144/256
+2021-07-05 18:47:11,911 - fusion.py[line:149] - INFO: Epoch: 185 | Validation Acc: 56.480 % | Historical Best: 57.280 %
+2021-07-05 18:47:18,143 - fusion.py[line:121] - INFO: Epoch: 186 | Batch: 000 | Loss: 1.43612 | Correct: 155/256
+2021-07-05 18:48:11,356 - fusion.py[line:121] - INFO: Epoch: 186 | Batch: 100 | Loss: 1.47520 | Correct: 145/256
+2021-07-05 18:49:17,281 - fusion.py[line:149] - INFO: Epoch: 186 | Validation Acc: 56.300 % | Historical Best: 57.280 %
+2021-07-05 18:49:23,700 - fusion.py[line:121] - INFO: Epoch: 187 | Batch: 000 | Loss: 1.38874 | Correct: 149/256
+2021-07-05 18:50:16,694 - fusion.py[line:121] - INFO: Epoch: 187 | Batch: 100 | Loss: 1.55894 | Correct: 143/256
+2021-07-05 18:51:21,933 - fusion.py[line:149] - INFO: Epoch: 187 | Validation Acc: 56.310 % | Historical Best: 57.280 %
+2021-07-05 18:51:28,057 - fusion.py[line:121] - INFO: Epoch: 188 | Batch: 000 | Loss: 1.36338 | Correct: 153/256
+2021-07-05 18:52:22,499 - fusion.py[line:121] - INFO: Epoch: 188 | Batch: 100 | Loss: 1.36761 | Correct: 155/256
+2021-07-05 18:53:30,805 - fusion.py[line:149] - INFO: Epoch: 188 | Validation Acc: 56.300 % | Historical Best: 57.280 %
+2021-07-05 18:53:37,202 - fusion.py[line:121] - INFO: Epoch: 189 | Batch: 000 | Loss: 1.37518 | Correct: 159/256
+2021-07-05 18:54:31,773 - fusion.py[line:121] - INFO: Epoch: 189 | Batch: 100 | Loss: 1.58096 | Correct: 144/256
+2021-07-05 18:55:39,758 - fusion.py[line:149] - INFO: Epoch: 189 | Validation Acc: 56.960 % | Historical Best: 57.280 %
+2021-07-05 18:55:45,116 - fusion.py[line:121] - INFO: Epoch: 190 | Batch: 000 | Loss: 1.47807 | Correct: 147/256
+2021-07-05 18:56:38,091 - fusion.py[line:121] - INFO: Epoch: 190 | Batch: 100 | Loss: 1.50059 | Correct: 154/256
+2021-07-05 18:57:42,725 - fusion.py[line:149] - INFO: Epoch: 190 | Validation Acc: 56.320 % | Historical Best: 57.280 %
+2021-07-05 18:57:47,562 - fusion.py[line:121] - INFO: Epoch: 191 | Batch: 000 | Loss: 1.44278 | Correct: 151/256
+2021-07-05 18:58:42,599 - fusion.py[line:121] - INFO: Epoch: 191 | Batch: 100 | Loss: 1.35350 | Correct: 160/256
+2021-07-05 18:59:53,176 - fusion.py[line:149] - INFO: Epoch: 191 | Validation Acc: 56.890 % | Historical Best: 57.280 %
+2021-07-05 18:59:59,505 - fusion.py[line:121] - INFO: Epoch: 192 | Batch: 000 | Loss: 1.48459 | Correct: 146/256
+2021-07-05 19:00:51,775 - fusion.py[line:121] - INFO: Epoch: 192 | Batch: 100 | Loss: 1.34308 | Correct: 151/256
+2021-07-05 19:01:59,040 - fusion.py[line:149] - INFO: Epoch: 192 | Validation Acc: 56.430 % | Historical Best: 57.280 %
+2021-07-05 19:02:04,312 - fusion.py[line:121] - INFO: Epoch: 193 | Batch: 000 | Loss: 1.52210 | Correct: 152/256
+2021-07-05 19:02:59,833 - fusion.py[line:121] - INFO: Epoch: 193 | Batch: 100 | Loss: 1.47482 | Correct: 152/256
+2021-07-05 19:04:06,286 - fusion.py[line:149] - INFO: Epoch: 193 | Validation Acc: 57.090 % | Historical Best: 57.280 %
+2021-07-05 19:04:11,267 - fusion.py[line:121] - INFO: Epoch: 194 | Batch: 000 | Loss: 1.43721 | Correct: 152/256
+2021-07-05 19:05:05,724 - fusion.py[line:121] - INFO: Epoch: 194 | Batch: 100 | Loss: 1.31875 | Correct: 157/256
+2021-07-05 19:06:12,255 - fusion.py[line:149] - INFO: Epoch: 194 | Validation Acc: 56.730 % | Historical Best: 57.280 %
+2021-07-05 19:06:18,604 - fusion.py[line:121] - INFO: Epoch: 195 | Batch: 000 | Loss: 1.48341 | Correct: 149/256
+2021-07-05 19:07:15,342 - fusion.py[line:121] - INFO: Epoch: 195 | Batch: 100 | Loss: 1.48519 | Correct: 134/256
+2021-07-05 19:08:21,214 - fusion.py[line:149] - INFO: Epoch: 195 | Validation Acc: 56.660 % | Historical Best: 57.280 %
+2021-07-05 19:08:27,552 - fusion.py[line:121] - INFO: Epoch: 196 | Batch: 000 | Loss: 1.56478 | Correct: 142/256
+2021-07-05 19:09:20,300 - fusion.py[line:121] - INFO: Epoch: 196 | Batch: 100 | Loss: 1.57235 | Correct: 142/256
+2021-07-05 19:10:28,985 - fusion.py[line:149] - INFO: Epoch: 196 | Validation Acc: 57.210 % | Historical Best: 57.280 %
+2021-07-05 19:10:34,384 - fusion.py[line:121] - INFO: Epoch: 197 | Batch: 000 | Loss: 1.40329 | Correct: 149/256
+2021-07-05 19:11:29,221 - fusion.py[line:121] - INFO: Epoch: 197 | Batch: 100 | Loss: 1.51598 | Correct: 147/256
+2021-07-05 19:12:38,060 - fusion.py[line:149] - INFO: Epoch: 197 | Validation Acc: 56.840 % | Historical Best: 57.280 %
+2021-07-05 19:12:44,385 - fusion.py[line:121] - INFO: Epoch: 198 | Batch: 000 | Loss: 1.31638 | Correct: 159/256
+2021-07-05 19:13:38,570 - fusion.py[line:121] - INFO: Epoch: 198 | Batch: 100 | Loss: 1.46821 | Correct: 140/256
+2021-07-05 19:14:46,433 - fusion.py[line:149] - INFO: Epoch: 198 | Validation Acc: 57.250 % | Historical Best: 57.280 %
+2021-07-05 19:14:52,665 - fusion.py[line:121] - INFO: Epoch: 199 | Batch: 000 | Loss: 1.33738 | Correct: 162/256
+2021-07-05 19:15:46,300 - fusion.py[line:121] - INFO: Epoch: 199 | Batch: 100 | Loss: 1.52958 | Correct: 150/256
+2021-07-05 19:16:53,316 - fusion.py[line:149] - INFO: Epoch: 199 | Validation Acc: 56.680 % | Historical Best: 57.280 %
+2021-07-05 19:17:09,803 - train_adam_ensemble.py[line:49] - INFO: FusionClassifier             | Testing Acc: 56.68 % | Training Time: 25348.63 s | Evaluating Time: 16.48 s
